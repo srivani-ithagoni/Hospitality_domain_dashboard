@@ -8,7 +8,7 @@ Excel – for data preprocessing
 SQL (MySQL) – for extracting and transforming raw data
 
 Data Model
- ![Image Alt]()
+ ![Image Alt](https://github.com/srivani-ithagoni/Hospitality_domain_dashboard/blob/c9a2fc85fa8e1a16969f551010a859452d612f70/data%20model.png)
 
 
 
