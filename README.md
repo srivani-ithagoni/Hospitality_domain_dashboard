@@ -8,7 +8,7 @@ Excel – for data preprocessing
 SQL (MySQL) – for extracting and transforming raw data
 
 Data Model
-
+ ![Image Alt]()
 
 
 
