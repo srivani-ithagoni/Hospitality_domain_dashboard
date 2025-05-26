@@ -2,6 +2,12 @@
 Hospitality Domain Data Analytics Project
 Atliq Grands owns multiple star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing their market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue.
 
+Hotel and Data Overview
+Hotel Chain: AtliQ Grands, operating in 4 cities.
+Properties: 7, with branches in all 4 cities.
+Room Categories: Elite, Premium, Presidential, Standard.
+Booking Platforms: 6 main platforms plus others.
+
 🛠️ Tools & Technologies Used
    Power BI – for building interactive dashboards
    Excel – for data preprocessing
